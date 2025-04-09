@@ -1,7 +1,2 @@
-# Your Resume
+# Christopher Novo
 
-
-
-
-
-This resume was generated using HTML, CSS, and JS.
