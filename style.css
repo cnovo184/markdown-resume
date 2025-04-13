@@ -1,4 +1,6 @@
 /* Your Styles */
+@import url("https://api.fontshare.com/v2/css?f[]=satoshi@400&display=swap");
+
 body{
     font-family: "Expose", "Satoshi", sans-serif;
     background-color: #f9f9f9;
@@ -7,6 +9,8 @@ body{
     padding: 0;
     line-height: 1.6;
 }
+
+
 
 /* Print Styling */
 @media print {
