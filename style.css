@@ -1,5 +1,12 @@
 /* Your Styles */
-
+body{
+    font-family: "Expose", "Satoshi", sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    margin: 2rem;
+    padding: 0;
+    line-height: 1.6;
+}
 
 /* Print Styling */
 @media print {

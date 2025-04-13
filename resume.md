@@ -15,9 +15,9 @@ Cheney High School, Cheney WA | 2018 - 2022
 Currently seeking opportunities to apply my skills and knowledge in real-world settings. While I do not have formal work experience, I have developed valuable skills through my education, personal projects, and collaboration with peers.
 
 ## Projects
-- **[Personal Portfolio](https://your-portfolio-link.com)**: Designed and developed a portfolio website to showcase my work in visual communication and web design.
-- **[Interactive Children's Book](https://link-to-project.com)**: Created an engaging and interactive book design using Figma, demonstrating skills in storytelling, user experience design, and prototyping.
-- **[Sonic Google Doodle](https://link-to-project.com)**: Developed a creative animation inspired by Sonic the Hedgehog using HTML, CSS, and JavaScript, showcasing proficiency in coding and animation techniques.
+- **[Personal Portfolio](https://personal-portfolio-cn.my.canva.site/)**: Designed and developed a portfolio website to showcase my work in visual communication and web design.
+- **[Interactive Children's Book](https://www.figma.com/proto/sEi85tm9I0pOKekdPp4x0f/UX-2--Project--3--Children-s-Experience?node-id=136-105&starting-point-node-id=136%3A105&t=CWyJZZl6O5Nb2GNf-1)**: Created an engaging and interactive book design using Figma, demonstrating skills in storytelling, user experience design, and prototyping.
+- **[Sonic Google Doodle](https://sonic-google-doodle.netlify.app/)**: Developed a creative animation inspired by Sonic the Hedgehog using HTML, CSS, and JavaScript, showcasing proficiency in coding and animation techniques.
 
 ## Skills
 - **Web Development**: Proficient in HTML, CSS, JavaScript, and responsive design techniques.
