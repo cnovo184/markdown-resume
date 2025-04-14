@@ -1,3 +1,8 @@
+---
+stylesheet: ./style.css
+page_media_type: print
+---
+
 # Christopher Novo
 
 ## Objective
